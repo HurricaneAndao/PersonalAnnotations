@@ -2,3 +2,8 @@
 - Git init
 - Git branch
 - Git checkout <nom branche>
+- Git status
+- Git add --all <chemin> (par exemple . pour tout)
+- Git commit -m "message de commit"
+- Git push orgin <nom de branche>
+
